@@ -1,3 +1,6 @@
 [submodule "vendor/SDL"]
 	path = vendor/SDL
 	url = https://github.com/libsdl-org/SDL.git
+[submodule "tools/ninja"]
+	path = tools/ninja
+	url = https://github.com/jordonwu/ninja_binary.git
