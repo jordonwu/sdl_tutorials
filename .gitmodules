@@ -7,3 +7,6 @@
 [submodule "tools/w64devkit"]
 	path = tools/w64devkit
 	url = https://github.com/jordonwu/w64devkit_binary.git
+[submodule "tools/cmake"]
+	path = tools/cmake
+	url = https://github.com/jordonwu/cmake_binary.git
