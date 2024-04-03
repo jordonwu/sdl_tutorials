@@ -4,3 +4,6 @@
 [submodule "tools/ninja"]
 	path = tools/ninja
 	url = https://github.com/jordonwu/ninja_binary.git
+[submodule "tools/w64devkit"]
+	path = tools/w64devkit
+	url = https://github.com/jordonwu/w64devkit_binary.git
